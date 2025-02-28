@@ -4,7 +4,10 @@ After completing plugin development, you can package your plugin project as a lo
 
 ### **Prerequisites**
 
-You'll need the Dify plugin development scaffolding tool for packaging plugins. Visit the Github project page to select and download the version for your operating system.
+You'll need the Dify plugin development scaffolding tool for packaging plugins. Visit the 
+[Github project page](https://github.com/langgenius/dify-plugin-daemon/releases) to select and download the 
+version for your operating system. 
+Check [Initialize Development Tools](../quick-start/develop-plugins/initialize-development-tools.md) for more detail.
 
 Using **macOS with M-series chips** as an example, download the `dify-plugin-darwin-arm64` file, then navigate to the file's location in terminal and grant execution permissions:
 
